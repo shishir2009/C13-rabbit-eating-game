@@ -1,1 +1,1 @@
-# C13-rabbit-eating-game
+# C13-rabbit-feeding-game
